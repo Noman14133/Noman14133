@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Noman14133.
 - 👀 I’m interested in backend.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on C++ project.
+- 🌱 I’m currently learning C#.
+- 💞️ I’m looking to collaborate on C# project.
 - 📫 You can talk to me here.
 
 <!---
